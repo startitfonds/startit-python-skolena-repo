@@ -1,2 +1,6 @@
-# startit-python-skolena-repo
-Piemērs skolēna repozitorijam ar uzdevumiem un Testa Action
+# Instrukcijas skolēnam
+
+- kā veikt Fork no GitHub
+- git commit lokāli
+- git push lokāli
+- kā redzēt testu rezultātu
