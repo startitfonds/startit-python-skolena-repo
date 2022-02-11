@@ -15,4 +15,4 @@ def hipotenuza(a, b):
         hipotenuza(3, 4) == 5.0
         hipotenuza(3, 0) == 0
     """
-    return
+    return math.sqrt(a**2 + b**2)
